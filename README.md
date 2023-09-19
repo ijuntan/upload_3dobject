@@ -1,2 +1,5 @@
-# upload_3dobject
-upload 3d object to web
+# upload_3d_object
+upload 3d object to website
+
+uses three.js to upload .glb object file
+
